@@ -1,1 +1,1 @@
-# Online-Code-Editor
+This is a lightweight and easy-to-use online code editor designed for simple coding tasks and learning. Built with HTML, CSS, and JavaScript, QuickCode provides a streamlined environment for writing and testing your code quickly and efficiently.
